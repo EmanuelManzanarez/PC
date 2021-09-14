@@ -2,10 +2,7 @@ EMM: Hola
 EMM: Prueba
 EMM: Numero
 EMM: Uno
-<<<<<<< HEAD
 EMM: GITHUB
 DHT: ¡Hola!
 DHT: Prueba
 DHT: Numero 3
-=======
->>>>>>> 1b667710c39d2e922bfd3968e855220832f0dd4e
