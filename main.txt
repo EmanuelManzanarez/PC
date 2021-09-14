@@ -2,4 +2,3 @@ EMM: Hola
 EMM: Prueba
 EMM: Numero
 EMM: Uno
-EMM: BORRAR-ESTE-MENSAJE
