@@ -6,5 +6,4 @@ EMM: GITHUB
 DHT: ¡Hola!
 DHT: Prueba
 DHT: Numero 3
-ESA: Buenas tardes
 
